@@ -1,0 +1,8 @@
+{
+  "apikey": "YOUR_BINANCE_API_KEY",
+  "hmac": "YOUR_BINANCE_API_SECRET",
+  "mainnetApiUri": "www.binance.com",
+  "mainnetStreamUri": "wss://stream.binance.com:9443/ws",
+  "spotApiUri": "testnet.binance.vision",
+  "spotStreamUri": "wss://testnet.binance.vision/ws"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "binance-task",
+  "version": "0.1.0",
+  "description": "binance recruitment technical task",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js '--test-signature'"
+  },
+  "author": "Matteo Pisani <matteo.pisani.91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.4.3"
+  }
+}
